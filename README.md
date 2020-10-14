@@ -1,4 +1,4 @@
-# Project 3 - *Simple Twitter*
+# *Simple Twitter*
 
 **Simple Twitter** is a basic twitter app to read your tweets.
 
