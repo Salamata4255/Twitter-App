@@ -2,6 +2,27 @@
 
 **Simple Twitter** is a basic twitter app to read your tweets.
 
+# Twitter - Part II
+
+This is a basic twitter app to view, compose, favorite, and retweet tweets.
+
+Time spent: **6** hours spent in total
+
+## User Stories
+
+The following **required** functionality is completed:
+
+- [x] User can compose a tweet. 
+- [x] User can favorite a tweet. 
+- [ ] User can retweet a tweet. 
+
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='http://g.recordit.co/kdANbm4uSo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 # Twitter - Part I
 
 This is a basic twitter app to read your tweets.
